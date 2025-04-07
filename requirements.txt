@@ -5,3 +5,4 @@ python-docx
 pandas
 openpyxl
 selenium
+imagehash
