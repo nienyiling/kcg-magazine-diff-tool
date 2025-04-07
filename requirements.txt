@@ -6,3 +6,4 @@ pandas
 openpyxl
 selenium
 imagehash
+chromedriver-autoinstaller
